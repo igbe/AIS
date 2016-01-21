@@ -25,3 +25,8 @@ class Ais:
         """
         output=math.sqrt(dist.sqeuclidean(x,y))
         return output
+
+
+
+
+
