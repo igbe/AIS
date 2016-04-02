@@ -1,5 +1,4 @@
 import AIS
-import matplotlib.pyplot as plt
 import GeneticAlgorithm
 import sklearn.neighbors.kd_tree as kt
 import random
